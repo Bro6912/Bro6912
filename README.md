@@ -24,7 +24,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 -->
 
-### 🎧 Music
+# 🎧 Music
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31cmohvvs6biutpgpqrl2xb2es6m&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color_cover=true&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31cmohvvs6biutpgpqrl2xb2es6m&redirect=true)
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31cmohvvs6biutpgpqrl2xb2es6m&count=7&width=500)
 ---
