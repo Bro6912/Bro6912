@@ -16,15 +16,16 @@
 ![](https://streak-stats.demolab.com/?user=Bro6912&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Bro6912&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+<!--
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Bro6912&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Bro6912&theme=radical&no-frame=false&no-bg=true&margin-w=4) 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+-->
 
 ### 🎧 Spotify
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31cmohvvs6biutpgpqrl2xb2es6m&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color_cover=true&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31cmohvvs6biutpgpqrl2xb2es6m&redirect=true)
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31cmohvvs6biutpgpqrl2xb2es6m&count=7&width=500)
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
