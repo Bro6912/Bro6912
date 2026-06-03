@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on "NOTHING"<br>👯 I’m looking to collaborate on "T-T"<br>🤝 I’m looking for help with "Bleh""<br>🌱 I’m currently learning "SOCIAL SKILLS"<br>💬 Ask me about "DON'T ASK"<br>⚡ Fun fact "LIFE IS TOUGH"
+🔭 I’m currently working on "NOTHING" <!-- <br>👯 I’m looking to collaborate on "T-T"<br>🤝 I’m looking for help with "Bleh" --><br>🌱 I’m currently learning "SOCIAL SKILLS"<br>💬 Ask me about "DON'T ASK"<br>⚡ Fun fact "LIFE IS TOUGH"
 
 
 ## 🌐 Socials:
