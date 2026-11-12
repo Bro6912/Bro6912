@@ -42,6 +42,10 @@
 | ![](https://github-readme-stats.shion.dev/api?username=Bro6912&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br>![](https://streak-stats.demolab.com/?user=Bro6912&theme=dark&hide_border=false)<br>![](https://github-readme-stats.shion.dev/api/top-langs/?username=Bro6912&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) | [![Discord Presence](https://lanyard.cnrad.dev/api/783320847993143327)](https://discord.com/users/783320847993143327) |
 -->
 
+|#💬 Discord | #🎧 Music|
+|:---|:---|
+|[![Discord Presence](https://lanyard.cnrad.dev/api/783320847993143327)](https://discord.com/users/783320847993143327)|[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31cmohvvs6biutpgpqrl2xb2es6m&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color_cover=true&mode=dark)](https://open.spotify.com/user/31cmohvvs6biutpgpqrl2xb2es6m?si=6ce4467fdcbb4ff4)
+[![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31cmohvvs6biutpgpqrl2xb2es6m&count=7&width=500)](https://www.last.fm/user/Bro6912)|
 # 💬 Discord:
 [![Discord Presence](https://lanyard.cnrad.dev/api/783320847993143327)](https://discord.com/users/783320847993143327)
 
