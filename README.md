@@ -15,22 +15,27 @@
 # 🫳 Software Used:
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 
+
+| 📊 GitHub Stats: | 💬 Discord: |
+| :--- | :--- |
+| ![](https://github-readme-stats.shion.dev/api?username=Bro6912&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br>![](https://streak-stats.demolab.com/?user=Bro6912&theme=dark&hide_border=false)<br>![](https://github-readme-stats.shion.dev/api/top-langs/?username=Bro6912&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) | [![Discord Presence](https://lanyard.cnrad.dev/api/783320847993143327)](https://discord.com/users/783320847993143327) |
+<!--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Bro6912&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Bro6912&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Bro6912&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<!--
+--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Bro6912&theme=radical&no-frame=false&no-bg=true&margin-w=4) 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
--->
+--
 
 # 💬 Discord:
 [![Discord Presence](https://lanyard.cnrad.dev/api/783320847993143327)](https://discord.com/users/783320847993143327)
-
+-->
 # 🎧 Music
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31cmohvvs6biutpgpqrl2xb2es6m&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color_cover=true&mode=dark)](https://open.spotify.com/user/31cmohvvs6biutpgpqrl2xb2es6m?si=6ce4467fdcbb4ff4)
 [![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31cmohvvs6biutpgpqrl2xb2es6m&count=7&width=500)](https://www.last.fm/user/Bro6912)
